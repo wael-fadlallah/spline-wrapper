@@ -1,5 +1,5 @@
 import React from "react";
-import { Application } from "./assets/runtime";
+import { Application } from "./runtime";
 
 useEffect(() => {
   const { current } = canvasRef;
